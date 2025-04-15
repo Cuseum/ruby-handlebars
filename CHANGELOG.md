@@ -5,7 +5,7 @@ ruby-handlebars changelog
 ------------
 
 
-[0.5.0] (2025/04/14)
+[0.4.1] (2022/06/01)
 --------------------
 
  - bump dependencies
